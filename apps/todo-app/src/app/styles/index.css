@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+/* You can add global styles to this file, and also import other style files */
+
+:root {
+  --withe-color: #ffffff;
+  --secondary-color: #15101c;
+  --primary-color: #9e78cf;
+  --add-input-border-color: #3e1671;
+  --background-color: #0d0714;
+  --text-completed: #78cfb0;
+}
